@@ -10,7 +10,7 @@
 
 <p align="center">
   💻 Desenvolvedor curioso | 🎨 Furry | 💕 Movido a vontade de querer ser melhor <br/>
-  Misturando código com criatividade (e um pouco de fofura).
+  Misturando código com criatividade.
 </p>
 
 ---
