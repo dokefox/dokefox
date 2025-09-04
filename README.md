@@ -16,7 +16,6 @@
 ---
 
 ###  Sobre mim
--  
 -  🎞 quando tenho tempo liver amo editar videos
 - 🛠️ Trabalho/estudo com desenvolvimento e tecnologia  
 - 🎮 Nas horas vagas, gamer e explorador de ideias bobas  
